@@ -28,6 +28,5 @@ public class Reversing_an_Array
             right--;
         }
         System.out.println("Reversed Array is:" + Arrays.toString(arr));
-
     }    
 }
