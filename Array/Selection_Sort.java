@@ -23,7 +23,7 @@ public class Selection_Sort
             {
                 if (arr[j] < arr[min])
                 {
-                    min = arr[j];
+                    min = j;
                 }
             }
             int temp = arr[min];
